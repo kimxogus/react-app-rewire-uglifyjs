@@ -12,7 +12,8 @@
   "license": "MIT",
   "files": [
     "index.js",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "test": "react-app-rewired build"
