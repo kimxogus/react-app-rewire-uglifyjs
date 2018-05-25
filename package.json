@@ -1,0 +1,36 @@
+{
+  "name": "react-app-rewire-uglifyjs",
+  "version": "0.1.0",
+  "description": "Add uglifyjs-webpack-plugin to create-react-app using react-app-rewired",
+  "main": "index.js",
+  "homepage": "https://github.com/kimxogus/react-app-rewire-uglifyjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimxogus/react-app-rewire-uglifyjs"
+  },
+  "author": "kimxogus <kgyoo8232@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "react-app-rewired build"
+  },
+  "peerDependencies": {
+    "react-app-rewired": "^1.0.0",
+    "react-scripts": "^1.0.0"
+  },
+  "dependencies": {
+    "uglifyjs-webpack-plugin": "^1.2.5"
+  },
+  "devDependencies": {
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react-app": "^3.1.1",
+    "query-string": "^6.1.0",
+    "react": "^16.4.0",
+    "react-app-rewired": "^1.5.2",
+    "react-dom": "^16.4.0",
+    "react-scripts": "^1.1.4"
+  }
+}
