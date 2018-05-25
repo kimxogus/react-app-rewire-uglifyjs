@@ -1,0 +1,6 @@
+.*
+src
+public
+build
+config-overrides.js
+yarn.lock

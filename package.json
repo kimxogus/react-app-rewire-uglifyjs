@@ -10,11 +10,6 @@
   },
   "author": "kimxogus <kgyoo8232@gmail.com>",
   "license": "MIT",
-  "files": [
-    "index.js",
-    "README.md",
-    "LICENSE"
-  ],
   "scripts": {
     "test": "react-app-rewired build"
   },
